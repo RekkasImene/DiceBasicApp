@@ -1,0 +1,6 @@
+package fr.rekkas.projet_test
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
